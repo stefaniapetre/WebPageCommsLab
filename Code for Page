@@ -59,20 +59,27 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr class="w3-opacity">
 
     <!-- Grid for photos -->
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-half">
-        <img src="/web page/ media/ image 1.jpg" style="width:100%">
-        <img src="/web page/ media/ image 2.jpg" style="width:100%">
-        <img src="/web page/ media/ image 3.jpg" style="width:100%">
-      </div>
-
-      <div class="w3-half">
-        <img src="/web page/ media/ image 4.jpg" style="width:100%">
-        <img src="/web page/ media/ image 5.jpg" style="width:100%">
-        <img src="/web page/ media/ image 6.jpg" style="width:100%">
-      </div>
-    <!-- End photo grid -->
-    </div>
+<div class="w3-row-padding" style="margin:0 -16px">
+  <div class="w3-half">
+    <img src="web page/media/image 1.jpg" style="width:100%">
+    <img src="web page/media/image 2.jpg" style="width:100%">
+    <img src="web page/media/image 3.jpg" style="width:100%">
+  </div>
+ 
+ 
+  <div class="w3-half">
+    <img src="web page/media/image 4.jpg" style="width:100%">
+    <img src="web page/media/image 5.jpg" style="width:100%">
+    <img src="web page/media/image 6.jpg" style="width:100%">
+  </div>
+ <!-- End photo grid -->
+ </div>
+ 
+ 
+ <video width="800" height="500" controls>
+  <source src="web page/media/Video HW.mov" type="video/mp4">
+ </video>
+ 
   <!-- End Portfolio Section -->
   </div>
 
@@ -106,8 +113,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: sxp8191@nyu.edu</p>
     </div>
     
-    <!-- Image of location/map -->
-    <img src="/w3images/map.jpg" class="w3-image w3-greyscale" style="width:100%;margin:32px 0">
+    
    
     <p>Lets get in touch. Send me a message:</p>
     <form action="/action_page.php" target="_blank">
